@@ -33,5 +33,5 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-__pycache__
-venv
+/__pycache__
+/venv
